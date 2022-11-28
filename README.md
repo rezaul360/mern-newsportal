@@ -1,4 +1,4 @@
-![Complete E-commerce Course](https://github.com/rezaul360/complete-ecommerce-course/blob/master/Complete%20E-Commerce%20using%20MERN%20.jpg)
+![Complete E-commerce Course](https://github.com/rezaul360/mern-newsportal/blob/master/newsportal.png)
 
 # Getting Started with Create React App
 
